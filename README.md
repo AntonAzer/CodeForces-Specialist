@@ -1,4 +1,4 @@
-# CodeForces Specialist Roadmap
+# CodeForces Specialist Quickest Path
 
 > **The smart path to reaching a 1400 rating (Specialist) on CodeForces without wasting time on overly complex algorithms.**
 
