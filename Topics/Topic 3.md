@@ -5,7 +5,11 @@ To solve Problems C and D efficiently, you need the C++ Standard Template Librar
 The goal here is not to learn every feature of C++, but to master the tools that make implementation fast and painless.
 
 ### 1. `std::vector` (The Default Array)
-Forget about standard C-style arrays (e.g., `int arr[100];`)(Note that I talk about in your level but C-styles array is faster in many things but has no helper operations and also needs to master the ordinary operations befor, if you read Grandmasters sols you usually see a global arrays, but it is not our step now). Use `std::vector` for everything.
+Forget about standard C-style arrays (e.g., `int arr[100];`).
+
+**(Note that I talk about in your level but C-styles array is faster in many things but has no helper operations and also needs to master the ordinary operations befor, if you read Grandmasters sols you usually see a global arrays, but it is not our step now)**
+
+Use `std::vector` for everything.
 - It resizes dynamically.
 - It is easy to pass into functions.
 - You can easily assign all elements to a specific value or sort it completely using `sort(v.begin(), v.end())`.
