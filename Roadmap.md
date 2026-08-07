@@ -68,3 +68,6 @@ Knowledge is useless without a contest execution strategy.
 *   **If you are rated < 1000:** Grind 1000-1100 rated problems until you can spot the logic within 5 minutes.
 *   **If you are rated 1000 - 1200:** Focus heavily on Math, Prefix Sums, and Greedy algorithms.
 *   **If you are rated 1200 - 1300:** Your bottleneck is likely implementation speed on C. Spend time grinding medium implementation problems to sharpen your coding mechanics, so your mind is completely free to focus on CodeForces logic.
+*   Also don't forget LeetCode as I mentioned in point two in [Shortcuts_and_Mindset.md]().
+
+
