@@ -54,3 +54,6 @@ Contributions are always welcome! If you have a valuable tip, a better approach,
 
 ---
 *Crafted to support the competitive programming community.*
+
+
+*If you get any tip that touched your case or benefits you, I will be happy if you star the repository :)*
