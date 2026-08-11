@@ -10,7 +10,6 @@ This repository serves as your practical guide, focusing on the core concepts an
 ---
 
 ## Repository Structure
-- `Resources/`: Essential training sheets, contest archives, and helpful websites.
 - `Topics/`: Simplified explanations and targeted problem sets for the crucial topics required strictly at this rating range.
 - `Roadmap.md`: The detailed step-by-step roadmap for rating progression.
 - `Shortcuts_and_Mindset.md`: Competitive programming strategies, problem-solving mindset, and contest secrets.
