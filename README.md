@@ -20,7 +20,7 @@ This repository serves as your practical guide, focusing on the core concepts an
 
 ### Phase 1: Newbie to Pupil (0 to 1200)
 **Goal:** Master the fundamentals, write bug-free code, and solve problems A and B in record time.
-- **Key Focus:** Language fundamentals, Implementation, Brute Force, Basic Math, and Greedy algorithms.
+- **Key Focus:** Language fundamentals, Implementation, Brute Force, Basic Math, and Greedy algorithms, also you need to practice that converting the story of the problem to coding implementation, but this point has levels, definitely all sometimes finish reading a problem without knowing what is the required or how to start.
 - **Training Ground:** Assiut University Training Sheet alongside CodeForces problems rated 800–1000.
 
 ### Phase 2: Pupil to Specialist (1200 to 1400)
