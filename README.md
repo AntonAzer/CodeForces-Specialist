@@ -3,7 +3,7 @@
 > **The smart path to reaching a 1400 rating (Specialist) on CodeForces without wasting time on overly complex algorithms.**
 
 ## Why This Repository?
-Many beginners drown in a sea of complex algorithms and data structures, mistakenly believing they are the key to reaching the Specialist rank. The truth is, reaching a 1400 rating requires a strategic mindset, smart training, speed in solving simpler problems, and pattern recognition rather than memorizing advanced code.
+Many beginners drown in a sea of complex algorithms and data structures, mistakenly believing they are the key to reaching the Specialist rank. The truth is, reaching a 1400 rating requires a strategic mindset, smart training, speed in solving simpler problems, and pattern recognition rather than memorizing advanced code, However don't expect shortcuts.
 
 This repository serves as your practical guide, focusing on the core concepts and genuine methodologies that will shorten your journey.
 
