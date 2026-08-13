@@ -24,7 +24,7 @@ This repository serves as your practical guide, focusing on the core concepts an
 - **Training Ground:** Assiut University Training Sheet alongside CodeForces problems rated 800–1000.
 
 ### Phase 2: Pupil to Specialist (1200 to 1400)
-**Goal:** Consistently solve problem C, break into problem D, and minimize Wrong Answers (WA).
+**Goal:** Consistently solve problem C, break into problem D, and minimize Wrong Answers (WA), and I see this phase is much easier.
 - **Key Focus:** C++ STL, Prefix Sums, Frequency Arrays, Binary Search (and Binary Search on Answer), Two Pointers, Sliding Window, and Basic Number Theory.
 - **Training Ground:** CodeForces problems rated 1100–1400 and regular Virtual Contests.
 
