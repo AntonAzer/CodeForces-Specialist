@@ -21,6 +21,9 @@ Understanding the fundamental difference between platforms prevents wasted effor
 * **CodeForces is about "WHAT":** The difficulty lies in **Problem Definition**. The problem statement is often a puzzle or a story. Your primary challenge is to discover the underlying mathematical pattern, invariant, or observation—figuring out *what* needs to be done.
 * **LeetCode is about "HOW":** The difficulty lies in **Implementation**. The requirements are usually explicitly stated, and the challenge is choosing the right data structures and algorithms to execute the solution efficiently—figuring out *how* to write it.
 
+  You may see people has great problem definition skills in CodeForces, but stuck in how to apply this idea in my head, this flag to practice more on LeetCode, also if you feel great
+  at LeetCode but when to try to solve a simple problem or figuring out what is the required in CodeForces, that is flag to put more effort to improve this skill.
+
 > **Strategic Takeaway:** If you can easily spot the logic or observation behind a CodeForces problem but fail to translate it into working code, your bottleneck is implementation. To fix your "How", spend dedicated hours grinding **Medium-level problems on LeetCode**. Once your implementation mechanics are fluid, your mind will be free to focus entirely on CodeForces observations.
 
 ---
